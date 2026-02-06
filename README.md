@@ -11,23 +11,11 @@
 
 ### 截圖展示
 
-<div align="center">
-  <img src="sample/Demo_Img.png" alt="Desktop Feeding Fish Demo" width="800"/>
-</div>
+<img src="sample/Demo_Img.png" alt="Desktop Feeding Fish Demo" width="400"/>
 
 ### 影片展示
 
-<div align="center">
-  
-  **📹 [點擊下載並觀看完整演示影片](sample/Demo_video.mp4)**
-  
-  <a href="sample/Demo_video.mp4" title="點擊下載演示影片">
-    <img src="sample/Demo_Img.png" alt="Desktop Feeding Fish 演示影片預覽" width="800"/>
-  </a>
-  
-  <p><em>點擊上方圖片下載並觀看完整演示影片</em></p>
-  
-</div>
+<video src="https://github.com/user-attachments/assets/61228708-95d3-4173-8bb8-20cff3ffd969" width="352" height="480"></video>
 
 ## ✨ 主要功能
 
@@ -184,9 +172,9 @@ Desktop_Feeding_Fish/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 開啟一個 Pull Request
 
-## 📄 授權
+## 📄 資料來源
 
-本專案採用 MIT 授權條款
+本專案圖形皆使用AI進行生成，未使用他人創作素材
 
 ## 👤 作者
 
